@@ -29,7 +29,7 @@ def swap(a,b):
     return a,b
 a=float(input())
 b=float(input())
-a,b=swap(a,b)
+a,b=swa![Alt text](output.png)p(a,b)
 print("Swapped values are:",a,b)
 ```
  ## output:
